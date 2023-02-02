@@ -90,3 +90,24 @@ header {
 .offerOne li p {
     opacity: 70%;
 }
+
+.offersTwo {
+    padding: 90px 165px;
+}
+
+.offersTwo li {
+    display: inline-block;
+    padding: 4px;
+}
+
+.menuOne {
+    padding: 20px 130px;
+}
+
+.menuOne p {
+    display: inline-block;
+    font-weight: bolder;
+    font-size: 17px;
+    margin: 15px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
