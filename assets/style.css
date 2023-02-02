@@ -107,7 +107,32 @@ header {
 .menuOne p {
     display: inline-block;
     font-weight: bolder;
-    font-size: 17px;
+    font-size: 15px;
     margin: 15px 20px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#VA {
+    margin-left: 900px;
+    text-decoration: underline;
+}
+
+
+
+.offersThree li {
+    display: inline-block;
+    padding: 15px;
+}
+
+.offersThree li img {
+    width: 300px
+}
+
+.offerOne li h4 {
+    padding: 10px 0px;
+    font-weight: bold;
+}
+
+.offerOne li p {
+    opacity: 70%;
 }
