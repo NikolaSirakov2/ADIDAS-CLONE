@@ -122,10 +122,13 @@ header {
 .offersThree li {
     display: inline-block;
     padding: 15px;
+    width: 230px;
 }
 
-.offersThree li img {
-    width: 300px
+
+
+.offersThree li img{
+    width: 230px
 }
 
 .offerOne li h4 {
@@ -133,6 +136,7 @@ header {
     font-weight: bold;
 }
 
-.offerOne li p {
-    opacity: 70%;
+.offersThree li p {
+    width: 130px;
+    font-family: Arial, Helvetica, sans-serif;
 }
