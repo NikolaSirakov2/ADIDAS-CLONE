@@ -117,12 +117,15 @@ header {
     text-decoration: underline;
 }
 
-
+.offersThree ul {
+    margin-left: 130px;
+}
 
 .offersThree li {
     display: inline-block;
     padding: 15px;
     width: 230px;
+    
 }
 
 
@@ -137,6 +140,7 @@ header {
 }
 
 .offersThree li p {
-    width: 130px;
+    font-size: 13px;
+    width: 200px;
     font-family: Arial, Helvetica, sans-serif;
 }
