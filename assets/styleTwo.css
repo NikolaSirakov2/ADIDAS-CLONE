@@ -38,8 +38,28 @@
 }
 
 .stories h1 {
-    margin-left: 150px;
+    margin-left: 160px;
     font-weight: bolder;
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.stories ul {
+    margin-left: 160px;
+}
+
+.stories li {
+    display: inline-block;
+    padding: 3px;
+    width: 360px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.stories li img{
+    height: 240px;
+    width: 360px;
+}
+
+.stories li div {
+    width: 330px;
 }
