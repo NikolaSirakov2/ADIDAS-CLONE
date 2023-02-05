@@ -92,7 +92,7 @@
 
 .popular-right-now h1 {
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 800;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     margin: 0px 0px 20px 0px;
@@ -100,15 +100,17 @@
 
 .popular-right-now ul {
     text-align: center;
+    
 }
 
 .popular-right-now ul li{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 20px ;
+    margin: 15px 5px ;
     display: inline-block;
+    border-style: solid;
     border-width: 1px;
 }
 
-.popular-right-now ul li p {
-    border-width: 1px;
+.popular-right-now ul li p{
+    padding: 10px;
 }
