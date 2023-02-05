@@ -26,8 +26,8 @@
 .big-text ul li p {
     margin: 10px;
     display: flex;
-    justify-self: start;
     font-size: medium;
+    text-align: left;
 }
 
 .yellow-block {
@@ -54,4 +54,15 @@
     margin-left: 480px;
     color: aliceblue;
     background-color: black;
+}
+
+.end-links ul {
+    height: 500px;
+    text-align: center;
+}
+
+.end-links ul li {
+    height: 300px;
+    margin: 30px;
+    display: inline-block;
 }
