@@ -112,6 +112,11 @@ header {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.offerOne li h4 {
+    padding: 10px 0px;
+    font-weight: bold;
+}
+
 #VA {
     margin-left: 900px;
     text-decoration: underline;
@@ -137,10 +142,7 @@ header {
     width: 260px
 }
 
-.offerOne li h4 {
-    padding: 10px 0px;
-    font-weight: bold;
-}
+
 
 .offersThree li p {
     font-size: 14px;
