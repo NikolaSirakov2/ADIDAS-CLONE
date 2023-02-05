@@ -99,11 +99,13 @@
 }
 
 .popular-right-now ul {
+    opacity: 70%;
     text-align: center;
     
 }
 
 .popular-right-now ul li{
+    opacity: 85%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 15px 5px ;
     display: inline-block;
