@@ -1,6 +1,6 @@
 .big-text {
     background-color: rgb(235, 230, 230);
-    height: 500px;
+    height: 470px;
 }
 
 .big-text ul {
@@ -30,3 +30,28 @@
     font-size: medium;
 }
 
+.yellow-block {
+    position: relative;
+    background-color: rgb(238, 238, 49);
+    height: 140px;
+}
+
+.yellow-block span {
+    position: absolute;
+    left: 500px;
+    top: 40px;
+}
+
+.yellow-block h1 {
+    font-size: 25px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.yellow-block span button {
+    height: 50px;
+    width: 200px;
+    margin-left: 480px;
+    color: aliceblue;
+    background-color: black;
+}
