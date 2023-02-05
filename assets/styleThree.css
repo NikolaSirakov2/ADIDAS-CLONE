@@ -1,0 +1,15 @@
+.big-text {
+    background-color: rgb(235, 230, 230);
+    height: 600px;
+}
+
+.big-text ul {
+    text-align: center;
+}
+
+.big-text ul li {
+    display: inline-block;
+    height: 300;
+    width: 490px;
+    margin: 20px 10px;
+}
