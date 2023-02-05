@@ -66,3 +66,17 @@
     margin: 30px;
     display: inline-block;
 }
+
+footer {
+    background-color: rgb(15, 15, 15);
+    height: 130px;
+}
+
+footer ul {
+    text-align: center;
+}
+
+footer ul li {
+    color: aliceblue;
+    display: inline-block;
+}
