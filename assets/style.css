@@ -1,7 +1,6 @@
-header div{
-    position: relative;
+header div {
+  position: relative;
 }
-
 
 .first {
   background-color: black;
@@ -26,15 +25,14 @@ header div{
 }
 
 .logo {
-    position: relative;
-    top: 22px;
+  position: relative;
+  top: 22px;
   width: 70px;
   padding: 0;
 }
 
 .pol {
   text-align: center;
-  
 }
 
 .pol li {
@@ -43,130 +41,122 @@ header div{
 }
 
 .search {
-    position: absolute;
-    top: 52px
+  position: absolute;
+  top: 52px;
 }
 
 .green-image {
-    height: 800px;
-    background-image: url(../images/background\ image.webp);
+  height: 800px;
+  background-image: url(../images/background\ image.webp);
 }
 
 .green-image h1 {
-    color: aliceblue;
-    font-size: 70px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 12px 80px 5px 100px;
-    padding: 190px 100px 5px;
+  color: aliceblue;
+  font-size: 70px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 12px 80px 5px 100px;
+  padding: 190px 100px 5px;
 }
 
-.green-image  h5 {
-    color: aliceblue;
-    font-size: xx-large;
-    margin: 40px 80px 5px 100px;
-    padding: 10px 100px 5px;
+.green-image h5 {
+  color: aliceblue;
+  font-size: xx-large;
+  margin: 40px 80px 5px 100px;
+  padding: 10px 100px 5px;
 }
 
 .green-image ul {
-    margin: 30px 200px;
+  margin: 30px 200px;
 }
 
 .green-image ul li {
-    
-    padding: 8px;
+  padding: 8px;
 }
 
-.green-image ul li button{
-    height: 40px;
-    border: 4px;
-    border-style: double;
-    font-size: 20px;
-    
+.green-image ul li button {
+  height: 40px;
+  border: 4px;
+  border-style: double;
+  font-size: 20px;
 }
 
 .offers-one h2 {
-    font-style: italic;
-    font-size: 30px;
-    font-weight: bold;
-    font-family: ad;
-    padding: 90px 10px 40px 120px;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: ad;
+  padding: 90px 10px 40px 120px;
 }
 
 .offerOne li {
-    
-    display: inline-block;
-    padding: 15px;
+  display: inline-block;
+  padding: 15px;
 }
 
 .offerOne li img {
-    width: 340px
+  width: 340px;
 }
 
 .offerOne li h4 {
-    padding: 10px 0px;
-    font-weight: bold;
+  padding: 10px 0px;
+  font-weight: bold;
 }
 
 .offerOne li p {
-    opacity: 70%;
+  opacity: 70%;
 }
 
 .offersTwo {
-    padding: 90px 165px;
+  padding: 90px 165px;
 }
 
 .offersTwo li {
-    display: inline-block;
-    padding: 4px;
+  display: inline-block;
+  padding: 4px;
 }
 
 .menuOne {
-    padding: 10px 130px;
+  padding: 10px 130px;
 }
 
 .menuOne p {
-    display: inline-block;
-    font-weight: bolder;
-    font-size: 15px;
-    margin: 15px 20px;
-    font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  font-weight: bolder;
+  font-size: 15px;
+  margin: 15px 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .offerOne li h4 {
-    padding: 10px 0px;
-    font-weight: bold;
+  padding: 10px 0px;
+  font-weight: bold;
 }
 
 #VA {
-    margin-left: 900px;
-    text-decoration: underline;
+  margin-left: 900px;
+  text-decoration: underline;
 }
 
 .offersThree ul {
-    margin-left: 130px;
-    padding-bottom: 20px;
-    width: 300px;
-    width: fit-content;
+  margin-left: 130px;
+  padding-bottom: 20px;
+  width: 300px;
+  width: fit-content;
 }
 
 .offersThree li {
-    display: inline-block;
-    padding: 6px;
-    width: 260px;
-    
+  display: inline-block;
+  padding: 6px;
+  width: 260px;
 }
 
-
-
-.offersThree li img{
-    width: 260px
+.offersThree li img {
+  width: 260px;
 }
-
-
 
 .offersThree li p {
-    font-size: 14px;
-    width: 260px;
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 5px;
+  font-size: 14px;
+  width: 260px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px;
 }
