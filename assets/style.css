@@ -2,6 +2,18 @@ header div {
   position: relative;
 }
 
+.iconsOne {
+    margin-left: 200px;
+    position: absolute;
+    z-index: 4;
+    top: 40px;
+}
+
+.icons {
+    width: 30px;
+    margin-left: 20px;
+}
+
 .first {
   background-color: black;
   color: antiquewhite;
