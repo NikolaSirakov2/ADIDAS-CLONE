@@ -1,129 +1,132 @@
 .offersFour ul {
-    margin: 150px 130px 80px 150px;
-    padding-bottom: 20px;
-    width: 200px;
-    width: fit-content;
+  margin: 150px 130px 80px 150px;
+  padding-bottom: 20px;
+  width: 200px;
+  width: fit-content;
 }
 
 .offersFour li {
-    display: inline-block;
-    padding: 3px;
-    width: 390px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  display: inline-block;
+  padding: 3px;
+  width: 390px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
-.offersFour li video{
-    width: 390px
+.offersFour li video {
+  width: 390px;
 }
 
-
-.offersFour li img{
-    width: 390px
+.offersFour li img {
+  width: 390px;
 }
 
 .offersFour li h3 {
-    font-weight: 1000;
+  font-weight: 1000;
 }
 
 .offersFour li h4 {
-    padding: 10px 0px;
-    text-decoration: underline;
-    font-weight: 800;
+  padding: 10px 0px;
+  text-decoration: underline;
+  font-weight: 800;
 }
 
 .offersFour li p {
-    font-size: 14px;
-    width: 280px;
-    padding: 10px 2px 25px 0px;
+  font-size: 14px;
+  width: 280px;
+  padding: 10px 2px 25px 0px;
 }
 
 .stories h1 {
-    margin-left: 160px;
-    font-weight: bolder;
-    font-size: 30px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: 160px;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .stories {
-    padding: 30px;
+  padding: 30px;
 }
 
 .stories ul {
-    margin-left: 140px;
-    margin-bottom: 100px;
-    
+  margin-left: 140px;
+  margin-bottom: 100px;
 }
 
 .stories li {
-    position: relative;
-    display: inline-block;
-    padding: 0px 3px;
-    margin-top: 15px;
-    width: 390px;
-    height: 360px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  position: relative;
+  display: inline-block;
+  padding: 0px 3px;
+  margin-top: 15px;
+  width: 390px;
+  height: 360px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .stories h1 {
-    margin-left: 130px;
+  margin-left: 130px;
 }
 
 .stories ul {
-    margin-left: 130px;
+  margin-left: 130px;
 }
-.stories li img{
-    position: absolute;
-    top: 0px;
-    height: 240px;
-    width: 390px;
-    z-index: 2;
+.stories li img {
+  position: absolute;
+  top: 0px;
+  height: 240px;
+  width: 390px;
+  z-index: 2;
 }
 
 .stories li span {
-    background-color: white;
-    width: 370px;
-    height: 110px;
-    position: absolute;
-    bottom: 30px;
-    left: 23px;
-    z-index: 5;
+  background-color: white;
+  width: 370px;
+  height: 110px;
+  position: absolute;
+  bottom: 30px;
+  left: 23px;
+  z-index: 5;
 }
 
 .stories li p {
-    position: absolute;
-    bottom: 20px;
+  padding-left: 15px;
+  position: absolute;
+  bottom: 20px;
 }
 
 .stories li h3 {
-    position: absolute;
-    top: 1px;
-    bottom: 90px;
-    font-weight: 900;
+  padding-left: 15px;
+  position: absolute;
+
+  top: 1px;
+  bottom: 90px;
+  font-weight: 900;
 }
 
 .popular-right-now h1 {
-    font-size: 30px;
-    font-weight: 800;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    margin: 0px 0px 20px 0px;
+  font-size: 30px;
+  font-weight: 800;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin: 0px 0px 20px 0px;
 }
 
 .popular-right-now ul {
-    opacity: 70%;
-    text-align: center;
-    
+  opacity: 70%;
+  text-align: center;
 }
 
-.popular-right-now ul li{
-    opacity: 85%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 15px 5px ;
-    display: inline-block;
-    border-style: solid;
-    border-width: 1px;
+.popular-right-now ul li {
+  opacity: 85%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 15px 5px;
+  display: inline-block;
+  border-style: solid;
+  border-width: 1px;
 }
 
-.popular-right-now ul li p{
-    padding: 10px;
+.popular-right-now ul li p {
+  padding: 10px;
 }
