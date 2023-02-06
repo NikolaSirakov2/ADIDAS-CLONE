@@ -1,20 +1,26 @@
+header {
+    position: relative;
+}
+
 header div {
   position: relative;
 }
 
 .iconsOne {
-    margin-left: 200px;
-    position: absolute;
-    z-index: 4;
-    top: 45px;
+  margin-left: 200px;
+  position: absolute;
+  z-index: 4;
+  top: 45px;
 }
 
 .icons {
-    width: 20px;
-    margin-left: 20px;
+  width: 20px;
+  margin-left: 20px;
 }
 
 .first {
+  position: fixed;
+  width: 1900px;
   background-color: black;
   color: antiquewhite;
   text-align: center;
