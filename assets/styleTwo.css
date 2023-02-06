@@ -64,6 +64,13 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.stories h1 {
+    margin-left: 130px;
+}
+
+.stories ul {
+    margin-left: 130px;
+}
 .stories li img{
     position: absolute;
     top: 0px;
@@ -72,7 +79,7 @@
     z-index: 2;
 }
 
-.stories li>div {
+.stories li div {
     background-color: bisque;
     width: 390px;
     height: 360px;
