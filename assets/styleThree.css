@@ -57,14 +57,29 @@
 }
 
 .end-links ul {
-    height: 500px;
+    position: relative;
+    height: 543px;
     text-align: center;
 }
 
 .end-links ul li {
-    height: 300px;
-    margin: 30px;
+    position: relative;
+    bottom: 50px;
     display: inline-block;
+    margin: 20px;
+    text-align: left;
+}
+
+.end-links ul li h1 {
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+}
+
+.end-links ul li p {
+    padding: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
 
 .end-links ul li img {
@@ -74,7 +89,7 @@
 
 footer {
     background-color: rgb(61, 60, 60);
-    height: 132px;
+    height: 160px;
 }
 
 footer ul {
